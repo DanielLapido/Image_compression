@@ -6,6 +6,7 @@ manipulation.
 
 This image is a photograph of the 1927 Solvay International Conference where the world's most notable physicists met to discuss the newly formulated quantum theory. 
 The dimensions of this photo are 3000x2171 pixels and so the rank of the matrix is 2171.
+
 ![](https://github.com/DanielLapido/Image_compression/blob/main/Images/2171.jpg)
 
 This is the rank-300 approximation, whose compression rate is 23,82% (only contains the 23,82% of the original image information), calculated as: 300*(3000+1+2171)/(3000*2171)
